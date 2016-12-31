@@ -29,6 +29,7 @@
     "zeros": "^1.0.0"
   },
   "devDependencies": {
+    "noisejs": "^2.1.0",
     "save-pixels": "^2.3.4"
   }
 }
